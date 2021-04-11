@@ -1,2 +1,2 @@
 # invite_page_startuplife
-Invite page 
+Invite page  :  https://startuplife.netlify.app/
